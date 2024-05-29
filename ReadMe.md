@@ -27,5 +27,4 @@ A complete e-commerce website with HTML, CSS and JAVASCRIPT ,also using PHP and 
 8.) After all these setup, hit url "localhost/ecommerce" on a new tab in your browser to see the project running. <br>
 
 ### Project Collaborators ->
-1.) Tanisha Bhadani --- https://github.com/tanisha-bhadani  <br>
-2.) Rahul Verma ------- https://github.com/inexorable23
+
